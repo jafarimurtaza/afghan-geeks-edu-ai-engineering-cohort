@@ -219,3 +219,14 @@ Free · Local · Powerful · Yours.
 [Afghan Geeks Education](https://www.afghangeeksedu.org) · [LinkedIn](https://www.linkedin.com/school/afghan-geeks-education)
 
 </div>
+
+## License
+ 
+This curriculum is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+ 
+You are free to use, share, and adapt this material for any purpose — **as long as you credit Afghan Geeks Education** and link to [afghangeeksedu.org](https://www.afghangeeksedu.org).
+ 
+> If you use this curriculum, we'd love to know. Reach us at [afghangeeksedu.org/contact](https://afghangeeksedu.org/contact).
+
+
+
