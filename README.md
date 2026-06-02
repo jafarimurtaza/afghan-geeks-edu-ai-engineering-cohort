@@ -26,7 +26,7 @@ This course trains **AI Engineers**, not ML researchers.
 ## The 4 pillars
 
 1. **LLM Apps** — chat, Q&A, translation, summarisation, classification
-2. **RAG Systems** — AI over your own documents (embeddings · ChromaDB)
+2. **RAG Systems** — AI over your own documents (embeddings · Postgres + pgvector)
 3. **AI Agents** — AI that uses tools (ReAct loop · tool calling)
 4. **MLOps** — deploy, monitor, evaluate (Docker · CI/CD)
 
@@ -38,7 +38,7 @@ This course trains **AI Engineers**, not ML researchers.
 |---|---|---|---|
 | 01–05 | 1–3 | **Understanding AI** | The language of AI — tokens, parameters, context window, temperature, hallucination, RAG, agents. Model names & pricing decoded. 30+ terms. |
 | 06–09 | 3–5 | **Working with Models** | First code: Ollama API · streaming · structured output · prompt engineering · Modelfiles · model routing · caching. |
-| 10–14 | 5–7 | **RAG — Knowledge & Retrieval** ★ | Embeddings · ChromaDB · document ingestion · complete RAG pipeline. **★ Capstone 1** |
+| 10–14 | 5–7 | **RAG — Knowledge & Retrieval** ★ | Embeddings · Postgres + pgvector · document ingestion · complete RAG pipeline. **★ Capstone 1** |
 | 15–20 | 8–10 | **Full-Stack & Ship** ★ | Next.js + Ollama · streaming UI · agents overview · RAG in browser · Docker · deployment. **★ Capstone 2** |
 
 Weekly exercises live in [`sessions/`](sessions/) — one folder per session (`session-01` … `session-20`).
@@ -63,7 +63,7 @@ Full-stack Next.js with a streaming UI, multi-turn memory, system prompt, AI age
 | **Ollama** | AI runtime — local models |
 | **llama3.2 · qwen · deepseek** | The models we use |
 | **nomic-embed-text** | Embeddings for RAG |
-| **ChromaDB** | Vector database |
+| **Postgres + pgvector** | Vector database |
 | **Next.js · React 19** | Full-stack web app |
 | **Docker** | Deployment |
 
