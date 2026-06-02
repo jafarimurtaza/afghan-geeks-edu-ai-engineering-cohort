@@ -1,231 +1,201 @@
+
+<div dir="rtl" align="right">
 <div align="center">
-<img src="https://www.afghangeeksedu.org/favicon.ico" width="60" alt="Afghan Geeks Education" />
-# AI Engineering Cohort · انجنیری هوش مصنوعی
- 
-**Afghan Geeks Education — 2026 Cohort**
- 
-Build real AI applications on your own laptop.
-**Free · Local · No API Key · Powered by Ollama.**
- 
-[![Afghan Geeks Education](https://img.shields.io/badge/Afghan%20Geeks%20Education-NGO-0D1B4B?style=flat-square)](https://www.afghangeeksedu.org)
+
+<img src="https://www.afghangeeksedu.org/favicon.ico" width="60" alt="نهاد آموزشی افغان گیکس" />
+
+# دوره مهندسی هوش مصنوعی
+
+**نهاد آموزشی افغان گیکس — دوره ۲۰۲۶**
+
+برنامه‌های واقعی هوش مصنوعی را روی لپ‌تاپ شخصی خود بسازید.
+
+**رایگان · محلی · بدون نیاز به API Key · مبتنی بر Ollama**
+
+[![نهاد آموزشی افغان گیکس](https://img.shields.io/badge/Afghan%20Geeks%20Education-NGO-0D1B4B?style=flat-square)](https://www.afghangeeksedu.org)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-F59E0B?style=flat-square)](https://creativecommons.org/licenses/by/4.0/)
-[![Models](https://img.shields.io/badge/Powered%20by-Ollama-38BDF8?style=flat-square)](https://ollama.com)
-[![Sessions](https://img.shields.io/badge/Sessions-20-0D1B4B?style=flat-square)](#your-20-session-journey)
- 
+[![Powered by Ollama](https://img.shields.io/badge/Powered%20by-Ollama-38BDF8?style=flat-square)](https://ollama.com)
+[![20 Sessions](https://img.shields.io/badge/Sessions-20-0D1B4B?style=flat-square)](#مسیر-۲۰-جلسه‌ای-شما)
+
 </div>
 
+<div align="center">
+
+</div>
 
 ---
 
-## About Afghan Geeks Education
+## درباره نهاد آموزشی افغان گیکس
 
-[Afghan Geeks Education](https://www.afghangeeksedu.org) is a nonprofit technology education initiative dedicated to Afghan women and youth. We teach web development, AI engineering, and modern coding skills through structured programs, close mentorship, and real projects — not just theory.
+نهاد آموزشی افغان گیکس یک ابتکار آموزشی غیرانتفاعی در حوزه فناوری است که برای زنان و جوانان افغانستان ایجاد شده است. ما توسعه وب، مهندسی هوش مصنوعی و مهارت‌های نوین برنامه‌نویسی را از طریق برنامه‌های آموزشی ساختاریافته، راهنمایی مستمر و پروژه‌های عملی آموزش می‌دهیم؛ نه صرفاً مباحث نظری.
 
-> *"With the onset of the new revolution in Afghanistan, unfortunately, all girls were deprived of continuing our education. Afghan Geeks opened a window toward learning."*
-> — Afghan Geeks student
+> «با آغاز تحولات جدید در افغانستان، متأسفانه تمامی دختران از ادامه تحصیل محروم شدند. افغان گیکس دریچه‌ای تازه به سوی یادگیری برای ما گشود.»
 
-We have seen beginners become junior developers. We have seen women land their first freelance clients. This curriculum is the next step: training the next generation of AI Engineers — entirely free, entirely offline, entirely accessible.
-
----
-
-## Why This Track Exists
-
-Claude, OpenAI, and Gemini are blocked or unaffordable for students in Afghanistan — no international payment methods, IP restrictions, and unreliable internet make cloud AI inaccessible.
-
-So we build with **[Ollama](https://ollama.com)** — AI models that run locally on any laptop, free, forever, even offline.
-
-And here is the key insight: **the skills transfer completely.**
-
-> Switching from Ollama to Claude or OpenAI after you graduate takes **3 lines of code** — same `messages` array, same streaming pattern, same RAG pipeline, same architecture. Students arrive at their first job already knowing how production AI works.
+ما شاهد بوده‌ایم که افراد مبتدی به توسعه‌دهندگان جونیور تبدیل شده‌اند. شاهد بوده‌ایم که زنان نخستین پروژه‌های فریلنسری خود را به دست آورده‌اند. این برنامه آموزشی گام بعدی ما است: تربیت نسل جدید مهندسان هوش مصنوعی — کاملاً رایگان، کاملاً آفلاین و در دسترس همگان.
 
 ---
 
-## What Is an AI Engineer?
+## چرا این برنامه ایجاد شده است؟
 
-This course trains **AI Engineers** — not ML researchers.
+Claude، OpenAI و Gemini برای بسیاری از دانشجویان افغانستان یا در دسترس نیستند یا استفاده از آن‌ها دشوار و پرهزینه است. محدودیت‌های پرداخت بین‌المللی، محدودیت‌های دسترسی و اینترنت ناپایدار باعث شده‌اند که استفاده از هوش مصنوعی ابری برای بسیاری از دانشجویان امکان‌پذیر نباشد.
 
-| ML Researcher | AI Engineer ← *us* |
+به همین دلیل ما از **Ollama** استفاده می‌کنیم؛ مدل‌های هوش مصنوعی که به‌صورت محلی روی لپ‌تاپ اجرا می‌شوند، رایگان هستند و حتی بدون اینترنت نیز کار می‌کنند.
+
+نکته مهم این است که تمام مهارت‌هایی که با Ollama فرا می‌گیرید، مستقیماً به OpenAI، Claude و سایر پلتفرم‌های ابری قابل انتقال هستند.
+
+---
+
+## مهندس هوش مصنوعی کیست؟
+
+این دوره برای آموزش **مهندسان هوش مصنوعی** طراحی شده است، نه پژوهشگران یادگیری ماشین.
+
+| پژوهشگر یادگیری ماشین | مهندس هوش مصنوعی |
 |---|---|
-| Trains models from scratch | Uses trained models as components |
-| Needs months, GPUs, millions $ | Calls APIs · writes TypeScript |
-| Writes custom neural networks | Builds apps for real users |
-| Needs a PhD | Just curiosity + a laptop |
+| مدل‌ها را از صفر آموزش می‌دهد | از مدل‌های آماده استفاده می‌کند |
+| نیازمند GPU و منابع گسترده | با APIها و TypeScript کار می‌کند |
+| شبکه‌های عصبی طراحی می‌کند | برنامه‌های کاربردی می‌سازد |
+| معمولاً نیازمند تحصیلات تخصصی | نیازمند کنجکاوی و یک لپ‌تاپ |
 
 ---
 
-## The 4 Pillars
+## چهار ستون اصلی دوره
 
-| # | Pillar | What you build |
+| شماره | بخش | آنچه خواهید ساخت |
 |---|---|---|
-| 1 | **LLM Apps** | Chat, Q&A, translation, summarisation, classification |
-| 2 | **RAG Systems** | AI over your own documents — embeddings · Postgres + pgvector |
-| 3 | **AI Agents** | AI that uses tools — ReAct loop · tool calling |
-| 4 | **MLOps** | Deploy, monitor, evaluate — Docker · CI/CD |
+| ۱ | برنامه‌های مبتنی بر LLM | چت، پرسش و پاسخ، ترجمه، خلاصه‌سازی، دسته‌بندی |
+| ۲ | سیستم‌های RAG | هوش مصنوعی روی اسناد خودتان |
+| ۳ | عامل‌های هوشمند (AI Agents) | استفاده از ابزارها و Tool Calling |
+| ۴ | MLOps | استقرار، پایش و ارزیابی |
 
 ---
 
-## Your 20-Session Journey
+## مسیر ۲۰ جلسه‌ای شما
 
-| Sessions | Weeks | Phase | Focus |
+| جلسات | هفته‌ها | مرحله | تمرکز |
 |---|---|---|---|
-| 01–05 | 1–3 | **Understanding AI** | The language of AI — tokens, parameters, context window, temperature, hallucination, RAG, agents. 30+ terms decoded. |
-| 06–09 | 3–5 | **Working with Models** | First code: Ollama API · streaming · structured output · prompt engineering · Modelfiles · model routing · caching. |
-| 10–14 | 5–7 | **RAG — Knowledge & Retrieval ★** | Embeddings · Postgres + pgvector · document ingestion · complete RAG pipeline. **★ Capstone 1** |
-| 15–20 | 8–10 | **Full-Stack & Ship ★** | Next.js + Ollama · streaming UI · agents · RAG in the browser · Docker · deployment. **★ Capstone 2** |
-
-Weekly exercises live in [`sessions/`](sessions/) — one folder per session, built up week by week.
+| ۰۱–۰۵ | ۱–۳ | آشنایی با هوش مصنوعی | مفاهیم بنیادی هوش مصنوعی |
+| ۰۶–۰۹ | ۳–۵ | کار با مدل‌ها | Ollama، Prompt Engineering و Streaming |
+| ۱۰–۱۴ | ۵–۷ | RAG و بازیابی اطلاعات | Embeddings و PostgreSQL + pgvector |
+| ۱۵–۲۰ | ۸–۱۰ | توسعه و استقرار | Next.js، Agents، Docker و استقرار پروژه |
 
 ---
 
-## Capstone Projects
+## پروژه‌های نهایی
 
-### ★ Capstone 1 · Session 14 — [Document Q&A System](projects/01-document-qa-system/)
+### پروژه نهایی ۱ — سیستم پرسش و پاسخ اسناد
 
-Upload any Dari or English PDF. Ask questions. The AI answers using only that document — no hallucination, no internet, no cost. A complete RAG pipeline built from scratch using TypeScript, Ollama, and Postgres + pgvector.
+هر فایل PDF فارسی دری یا انگلیسی را بارگذاری کنید و از آن سؤال بپرسید. سیستم تنها بر اساس محتوای همان سند پاسخ می‌دهد.
 
-**Deliverables:** GitHub repo · demo video · README
+### پروژه نهایی ۲ — برنامه چت هوشمند
 
-### ★ Capstone 2 · Session 20 — [Smart Chat App](projects/02-smart-chat-app/)
-
-A production-ready full-stack AI chat application: Next.js frontend with streaming UI, multi-turn memory, system prompts, AI agents with tool calling, and Docker so it deploys anywhere.
-
-**Deliverables:** GitHub repo · demo video · README
+یک برنامه کامل چت مبتنی بر هوش مصنوعی با Next.js، حافظه چندمرحله‌ای، Agentها، Tool Calling و Docker.
 
 ---
 
-## Tech Stack
+## فناوری‌های مورد استفاده
 
-| Tool | Role |
+| ابزار | نقش |
 |---|---|
-| **TypeScript** | Language — all sessions |
-| **Bun** | Runtime & package manager |
-| **Ollama** | Local AI runtime — free, offline |
-| **llama3.2 · qwen3.5 · phi3** | The models students use |
-| **nomic-embed-text** | Embeddings for RAG |
-| **Postgres + pgvector** | Vector database for RAG |
-| **Next.js · React 19** | Full-stack web application |
-| **Docker** | Deployment & portability |
+| TypeScript | زبان برنامه‌نویسی |
+| Bun | Runtime و Package Manager |
+| Ollama | اجرای محلی مدل‌های هوش مصنوعی |
+| llama3.2 · qwen3.5 · phi3 | مدل‌های مورد استفاده |
+| nomic-embed-text | Embeddings برای RAG |
+| PostgreSQL + pgvector | پایگاه داده برداری |
+| Next.js و React 19 | توسعه Full‑Stack |
+| Docker | استقرار و انتقال‌پذیری |
 
 ---
 
-## Models
+## آیا این دوره برای شما مناسب است؟
 
-We favour small, lightweight models so they run on modest hardware. Students pick based on their laptop:
+### اگر موارد زیر را دارید، جای شما اینجاست:
 
-| Model | Size | RAM | Pull |
-|---|---|---|---|
-| `qwen3.5:0.8b` | ~500 MB | 2–4 GB | `ollama pull qwen3.5:0.8b` |
-| `qwen3.5:2b` | ~1.5 GB | 4 GB | `ollama pull qwen3.5:2b` |
-| `phi3:mini` | ~2.2 GB | 4 GB | `ollama pull phi3:mini` |
-| `llama3.2` | ~2.0 GB | 4–8 GB | `ollama pull llama3.2` |
-| `qwen3.5:4b` | ~2.5 GB | 4–8 GB | `ollama pull qwen3.5:4b` |
+- می‌خواهید برنامه‌های واقعی هوش مصنوعی بسازید.
+- با JavaScript یا TypeScript آشنایی ابتدایی دارید.
+- لپ‌تاپی با ۴ تا ۸ گیگابایت RAM دارید.
+- افغان هستید یا برای جامعه افغانستان یاد می‌گیرید.
+- می‌خواهید نمونه‌کار GitHub و پروژه عملی داشته باشید.
 
-For RAG sessions, also pull the embedding model:
+### مواردی که نیاز ندارید:
+
+- مدرک دکترا یا پیش‌زمینه قوی ریاضی
+- API Key یا کارت بانکی بین‌المللی
+- GPU اختصاصی
+- تجربه قبلی در AI یا ML
+- اینترنت پرسرعت
+
+---
+
+## شروع کار
+
+### ۱. نصب Ollama
+
 ```bash
-ollama pull nomic-embed-text
-```
-
----
-
-## Is This Course for You?
-
-**✓ You belong here if you…**
-- want to *build* AI apps, not just read about them
-- know basic JavaScript or TypeScript
-- have a laptop with 4–8 GB RAM
-- are Afghan or learning for Afghan communities
-- want real skills — a GitHub portfolio and demo videos
-
-**✗ Not required**
-- a PhD or mathematics background
-- cloud API keys or a credit card
-- a GPU — your laptop CPU is enough
-- prior AI or ML experience
-- fast or stable internet — Ollama works fully offline
-
----
-
-## Getting Started
-
-**1. Install Ollama**
-```bash
-# Windows (PowerShell)
 irm https://ollama.com/install.ps1 | iex
 ```
-Or download from [ollama.com/download](https://ollama.com/download).
 
-**2. Pull a model**
+### ۲. دریافت یک مدل
+
 ```bash
-ollama pull qwen3.5:2b        # recommended for most laptops
+ollama pull qwen3.5:2b
 ```
 
-**3. Verify it works**
+### ۳. آزمایش اجرا
+
 ```bash
 ollama run qwen3.5:2b
->>> Hello!
 ```
 
-**4. Clone this repo**
+### ۴. دریافت مخزن
+
 ```bash
 git clone https://github.com/jafarimurtaza/afghan-geeks-edu-ai-engineering-cohort.git
 cd afghan-geeks-edu-ai-engineering-cohort
 ```
 
-**5. Start with Session 01**
+### ۵. شروع از جلسه اول
+
 ```bash
 cd sessions/session-01
 ```
 
 ---
 
-## Repository Structure
+## ساختار پروژه
 
-```
+```text
 .
 ├── projects/
-│   ├── 01-document-qa-system/    # ★ Capstone 1 — Session 14
-│   └── 02-smart-chat-app/        # ★ Capstone 2 — Session 20
-│
 ├── sessions/
-│   ├── session-01/               # Built up week by week
-│   ├── session-02/
-│   └── ... session-20/
-│
 ├── .gitignore
 └── README.md
 ```
 
 ---
 
-## Why Ollama
+## چرا Ollama؟
 
-| | Cloud AI (Claude, GPT-4) | Ollama (local) |
+| ویژگی | هوش مصنوعی ابری | Ollama |
 |---|---|---|
-| Cost | Paid API | **Free forever** |
-| Internet | Required | **Not required** |
-| Privacy | Data sent to cloud | **Stays on your machine** |
-| Access from Afghanistan | Blocked / restricted | **Always works** |
-| Skills transfer to cloud | — | **Yes — 3 lines of code** |
+| هزینه | نیازمند پرداخت | رایگان |
+| اینترنت | ضروری | ضروری نیست |
+| حریم خصوصی | داده‌ها به ابر ارسال می‌شوند | روی دستگاه شما باقی می‌مانند |
+| دسترسی از افغانستان | محدود | همیشه در دسترس |
+| انتقال مهارت‌ها | — | بله |
 
 ---
 
 <div align="center">
 
-**بیا بسازیم — Let's build.**
-
-Free · Local · Powerful · Yours.
-
-[Afghan Geeks Education](https://www.afghangeeksedu.org) · [LinkedIn](https://www.linkedin.com/school/afghan-geeks-education)
+رایگان · محلی · قدرتمند · متعلق به شما
 
 </div>
 
-## License
- 
-This curriculum is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
- 
-You are free to use, share, and adapt this material for any purpose — **as long as you credit Afghan Geeks Education** and link to [afghangeeksedu.org](https://www.afghangeeksedu.org).
- 
-> If you use this curriculum, we'd love to know. Reach us at [afghangeeksedu.org/contact](https://afghangeeksedu.org/contact).
+## مجوز
 
+این برنامه آموزشی تحت مجوز Creative Commons Attribution 4.0 International (CC BY 4.0) منتشر شده است.
 
+شما می‌توانید این محتوا را استفاده، بازنشر و ویرایش کنید؛ مشروط بر این‌که از نهاد آموزشی افغان گیکس نام ببرید و به وب‌سایت آن پیوند دهید.
 
+</div>
