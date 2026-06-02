@@ -1,20 +1,19 @@
 <div align="center">
-
 <img src="https://www.afghangeeksedu.org/favicon.ico" width="60" alt="Afghan Geeks Education" />
-
 # AI Engineering Cohort · انجنیری هوش مصنوعی
-
+ 
 **Afghan Geeks Education — 2026 Cohort**
-
+ 
 Build real AI applications on your own laptop.
 **Free · Local · No API Key · Powered by Ollama.**
-
+ 
 [![Afghan Geeks Education](https://img.shields.io/badge/Afghan%20Geeks%20Education-NGO-0D1B4B?style=flat-square)](https://www.afghangeeksedu.org)
-[![License](https://img.shields.io/badge/License-MIT-F59E0B?style=flat-square)](LICENSE)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-F59E0B?style=flat-square)](https://creativecommons.org/licenses/by/4.0/)
 [![Models](https://img.shields.io/badge/Powered%20by-Ollama-38BDF8?style=flat-square)](https://ollama.com)
 [![Sessions](https://img.shields.io/badge/Sessions-20-0D1B4B?style=flat-square)](#your-20-session-journey)
-
+ 
 </div>
+
 
 ---
 
