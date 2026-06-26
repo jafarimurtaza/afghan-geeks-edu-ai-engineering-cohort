@@ -37,3 +37,4 @@ Thumbs.db
 # Models / data (kept local)
 *.gguf
 data/
+/sessions/session-03/.env
